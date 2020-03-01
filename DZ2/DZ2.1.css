@@ -1,0 +1,128 @@
+body {
+    margin: 0 10px 10px;
+    padding: 0 0px 10px;
+    background-color: white;
+}
+ul {
+    list-style: none;
+    padding-left: 0px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu ul{
+    overflow: hidden;
+    padding: 0;
+    background: cornflowerblue;
+
+}
+
+.menu a {
+    display: block;
+    padding: 1em;
+    border-right: 1px solid white;
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+.menu a:hover {
+    color: black;
+}
+
+.li1 {
+    font-size: 18px;
+    float: left;
+}
+
+.li2{
+    float: right;
+    text-decoration: underline;
+    padding-top: 10px;
+    border-left: 1px solid white;
+}
+
+#amertpit{
+    float: left;
+    width: 49%;
+    font-family: fantasy;
+    margin-left: 20px;
+    padding-top: 100px;
+    position: relative;
+    top: 20px;
+}
+
+#sibhas{
+    float: left;
+    width: 48%;
+    font-family: fantasy;
+    margin-left: 30px;
+    padding-top: 90px;
+
+}
+
+#mops{
+    margin-left: 20px;
+    width: 30%;
+    font-family: fantasy;
+    float: left;
+    padding-top: 100px;
+}
+
+#nemec{
+    width: 30%;
+    font-family: fantasy;
+    float: left;
+    margin-left: 50px;
+    padding-top: 100px;
+}
+
+#shiba{
+    width: 30%;
+    font-family: fantasy;
+    float: left;
+    padding-top: 100px;
+    margin-left: 50px;
+}
+
+.back{
+    background-image: url("fon.jpg");
+    /*background-color: lightslategrey;*/
+    height: 81px;
+    position: relative;
+    top: 800px;
+    width: 100%;
+
+}
+
+.absolute{
+    position: absolute;
+    top: -11px;
+    left: 40%;
+}
+
+
+#reklama{
+    position: fixed;
+    right: 5px;
+    top: 100px;
+    border: 1px solid gold;
+}
+
+.dno{
+    color: white;
+}
+
+.pit {
+    position: relative;
+    left: 350px;
+    border-radius: 7px;
+}
+
+.has{
+    position: relative;
+    left: 350px;
+    border-radius: 7px;
+}
