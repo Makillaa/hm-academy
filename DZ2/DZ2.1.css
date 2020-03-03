@@ -44,7 +44,7 @@ a {
     border-left: 1px solid white;
 }
 
-#amertpit{
+.amertpit{
     float: left;
     width: 49%;
     font-family: fantasy;
@@ -54,7 +54,7 @@ a {
     top: 20px;
 }
 
-#sibhas{
+.sibhas{
     float: left;
     width: 48%;
     font-family: fantasy;
@@ -63,7 +63,7 @@ a {
 
 }
 
-#mops{
+.mops{
     margin-left: 20px;
     width: 30%;
     font-family: fantasy;
@@ -71,7 +71,7 @@ a {
     padding-top: 100px;
 }
 
-#nemec{
+.nemec{
     width: 30%;
     font-family: fantasy;
     float: left;
@@ -79,7 +79,7 @@ a {
     padding-top: 100px;
 }
 
-#shiba{
+.shiba{
     width: 30%;
     font-family: fantasy;
     float: left;
